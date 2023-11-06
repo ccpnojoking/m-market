@@ -1,0 +1,28 @@
+# logs
+/logs/
+
+# pycache
+/__pycache__
+*__pycache__*
+/configs/*
+
+
+*.log
+*logs*
+*.out*
+*.xlsx
+*geckodriver.log
+*.gif
+*.mp4
+*.txt
+*.png
+*.html
+*.deb
+*.json
+*.csv
+
+env/
+.DS_Store
+.idea/
+
+Pipfile.lock
